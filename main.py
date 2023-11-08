@@ -1,3 +1,5 @@
-from funcs import numbers
+from funcs import numbers, numbers2
 
 numbers()
+
+numbers2()
